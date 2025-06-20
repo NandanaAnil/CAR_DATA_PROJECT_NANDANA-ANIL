@@ -1,4 +1,5 @@
 Car Data Analysis and Price Prediction
+
 This project analyzes a car dataset to gain insights into key attributes and predict selling prices using machine learning models. It includes exploratory data analysis (EDA), feature engineering, model building, and performance evaluation.
 
 Key Highlights:
